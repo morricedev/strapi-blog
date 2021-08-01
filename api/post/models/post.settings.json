@@ -57,6 +57,11 @@
     "categories": {
       "via": "posts",
       "collection": "category"
+    },
+    "menuLink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu.menu-link"
     }
   }
 }
