@@ -1,5 +1,4 @@
 package-lock.json
-!ckeditor5-custom/*
 yarn.lock
 ############################
 # OS X
@@ -115,3 +114,5 @@ exports
 *.cache
 build
 .strapi-updater.json
+!ckeditor5-custom/*
+
