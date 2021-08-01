@@ -1,4 +1,6 @@
 package-lock.json
+!ckeditor5-custom/*
+yarn.lock
 ############################
 # OS X
 ############################
