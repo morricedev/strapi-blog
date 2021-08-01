@@ -8,7 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "postinstall": "cd plugins/wysiwyg && yarn"
+    "postinstall": "cd plugins/wysiwyg && npm i"
   },
   "devDependencies": {},
   "dependencies": {
@@ -33,7 +33,7 @@
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
-    "npm": "^6.0.0"
+    "npm": ">=6.0.0"
   },
   "license": "MIT"
 }
